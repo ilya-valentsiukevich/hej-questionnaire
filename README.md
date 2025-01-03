@@ -5,8 +5,8 @@ Currently, there is a mock API available only for the first three questionnaires
 ## 📋 Prerequisites
 
 Ensure you have the following installed:
-• Node.js (version 16 or higher recommended)
-• npm (comes with Node.js)
+* Node.js (version 16 or higher recommended)
+* npm (comes with Node.js)
 
 ## 🛠️ Installation
 
