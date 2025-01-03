@@ -1,0 +1,10 @@
+.appLayout {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.appContent {
+    flex: 1;
+    padding: 2rem;
+}

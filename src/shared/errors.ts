@@ -1,0 +1,5 @@
+export enum ErrorCode {
+  NOT_FOUND = 'NOT_FOUND',
+  LOAD_ERROR = 'LOAD_ERROR',
+  UNKNOWN_ERROR = 'UNKNOWN_ERROR',
+}
